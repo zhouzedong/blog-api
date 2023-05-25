@@ -1,0 +1,36 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+/me/
+
+*.class
+rebel.xml
+logs
+**/target/classes
+**/target/test-classes
+**/target/maven-status
+**/target/maven-archiver
+**/target/*.jar
+**/target/*.jar.original
+**/target/docker
